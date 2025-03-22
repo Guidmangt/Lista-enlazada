@@ -13,3 +13,7 @@ Este proyecto implementa una estructura de datos de lista enlazada en Java. Se h
 ### 3. Método para eliminar duplicados en una lista enlazada
  #### Método: eliminarDuplicados()
 - Se recorre la lista y eliminar nodos duplicados del valor actual.
+### 4. Método para obtener el tamaño de la lista enlazada
+ #### Método: obtenerTamaño()
+ - Recorre la lista contando los nodos.
+ - Retorna el número total de elementos en la lista.
