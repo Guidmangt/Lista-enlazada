@@ -5,5 +5,6 @@ Este proyecto implementa una lista enlazada en Java con diversas funcionalidades
 ## Métodos implementados 
 
 ### 1. Obtener el Tamaño de la Lista
-#### Método: obtenerTamaño()
-
+ #### Método: obtenerTamaño()
+- Recorre la lista contando los nodos.
+- Retorna el número total de elementos en la lista.
