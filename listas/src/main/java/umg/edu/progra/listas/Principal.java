@@ -1,9 +1,6 @@
 package umg.edu.progra.listas;
 
-/**
- *
- * @author Walter Cordova
- */
+
 public class Principal {
 
     public static void main(String[] args) {
